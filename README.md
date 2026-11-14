@@ -10,8 +10,8 @@
 
 FraudShield is a real-time fraud detection system for e-commerce. It scores every transaction with machine learning, explains *why* it was flagged, scans suspicious **website URLs** for phishing and fake stores, and shows everything on a live analyst dashboard.
 
-**Repository:** `https://github.com/<your-github-username>/fraudshield`
-**Repository owner / maintainer:** `<Your Name>` ([@your-github-username](https://github.com/your-github-username))
+**Repository:** `https://github.com/navtejadcode/fraudshield`
+**Repository owner / maintainer:** `<Your Name>` ([@navtejadcode](https://github.com/navtejadcode))
 
 ---
 
@@ -131,7 +131,7 @@ Python 3.11+, Node.js 18+, Git
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-github-username>/fraudshield.git
+git clone https://github.com/navtejadcode/fraudshield.git
 cd fraudshield
 ```
 
@@ -337,7 +337,7 @@ Confusion matrix and precision-recall curve are stored in `docs/`. *(Fill in aft
 
 | Name | USN | GitHub | Role |
 |---|---|---|---|
-| Your Name (Owner) | 1XX22CSXXX | [@your-github-username](https://github.com/your-github-username) | Repo owner, Backend + ML |
+| Your Name (Owner) | 1XX22CSXXX | [@navtejadcode](https://github.com/navtejadcode) | Repo owner, Backend + ML |
 | Teammate | 1XX22CSXXX | [@teammate](https://github.com/teammate) | Frontend |
 
 **Guide:** Prof. `<name>` | **College:** `<college name>` | **Year:** 2026
