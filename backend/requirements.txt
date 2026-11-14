@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+joblib
+matplotlib
+sqlalchemy
+requests
+beautifulsoup4
+tldextract
+python-whois
