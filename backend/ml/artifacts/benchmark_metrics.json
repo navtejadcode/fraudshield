@@ -1,0 +1,44 @@
+{
+  "dataset": "Kaggle Credit Card Fraud (mlg-ulb)",
+  "test_rows": 56962,
+  "test_fraud_rows": 98,
+  "threshold": 0.5,
+  "models": {
+    "Logistic Regression": {
+      "precision": 0.061,
+      "recall": 0.9184,
+      "f1": 0.1144,
+      "pr_auc": 0.719,
+      "roc_auc": 0.9721,
+      "tn": 55478,
+      "fp": 1386,
+      "fn": 8,
+      "tp": 90,
+      "train_seconds": 0.5
+    },
+    "Random Forest": {
+      "precision": 0.8421,
+      "recall": 0.8163,
+      "f1": 0.829,
+      "pr_auc": 0.8415,
+      "roc_auc": 0.9752,
+      "tn": 56849,
+      "fp": 15,
+      "fn": 18,
+      "tp": 80,
+      "train_seconds": 7.6
+    },
+    "XGBoost": {
+      "precision": 0.8804,
+      "recall": 0.8265,
+      "f1": 0.8526,
+      "pr_auc": 0.8762,
+      "roc_auc": 0.9796,
+      "tn": 56853,
+      "fp": 11,
+      "fn": 17,
+      "tp": 81,
+      "train_seconds": 4.2
+    }
+  }
+}
